@@ -13,13 +13,13 @@ const NavBar = () => {
       <div className="flex justify-center items-center px-3 bg-gray-800 md:bg-white gap-3 sm:gap-[100px]">
         <ul className="flex items-center gap-3 sm:gap-[100px] font-semibold sm:text-xl md:text-black text-white">
           <li className="text-[#f06d48]">
-            <a href="">Home</a>
+            <a href="#">Home</a>
           </li>
           <li>
-            <a href="">Shop</a>
+            <a href="#store">Shop</a>
           </li>
           <li>
-            <a href="">About</a>
+            <a href="#footer">About</a>
           </li>
         </ul>
         <button>

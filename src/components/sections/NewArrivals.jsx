@@ -3,7 +3,9 @@ import Card from "../UI/Card";
 
 const NewArrivals = () => {
   return (
-    <section className="flex flex-col items-center gap-3 min-h-[70dvh] justify-center">
+    <section
+      className="flex flex-col items-center gap-3 min-h-[70dvh] justify-center"
+      id="store">
       <h2 className="uppercase text-center font-semibold text-xl py-4 border-t-4 border-[#f06d48]">
         New Arrivals
       </h2>
