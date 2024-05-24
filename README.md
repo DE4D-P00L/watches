@@ -2,6 +2,8 @@
 
 A stylish and interactive landing page showcasing a watch collection, built with modern web development tools.
 
+See the landing page in action: [Live Demo](https://watches-bjn7.onrender.com/)
+
 ## Technologies
 
 Frontend:
