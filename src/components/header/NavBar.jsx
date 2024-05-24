@@ -22,8 +22,9 @@ const NavBar = () => {
             <a href="#footer">About</a>
           </li>
         </ul>
-        <button>
-          <IoMdSearch className="text-3xl text-white md:text-black" />
+
+        <button className="bg-[#f06d48] rounded-full p-1">
+          <IoMdSearch className="text-2xl text-white" />
         </button>
       </div>
       <a
